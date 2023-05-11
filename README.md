@@ -1,4 +1,4 @@
-# Obfuscator
+# Workbook Obfuscator
 *A program that bundles and obfuscates students' js code and then prunes unneeded js files*
 
 ## How to use this program
@@ -13,8 +13,7 @@
 8. Push branch to desired server
 
 ## How to install this program
-1. After cloning, run `npm install`
-2. Done
+1. Run `bash setup.sh`
 
 ## Dependencies
 * NodeJS
