@@ -1,0 +1,2 @@
+mkdir student
+npm install
