@@ -1,0 +1,20 @@
+{
+    "name": "obfuscator",
+    "version": "1.0.0",
+    "description": "obfuscator",
+    "main": "",
+    "scripts": {
+        "build": "webpack",
+        "start": "http-server ./student -c-1"
+    },
+    "author": "Pranav Rao",
+    "license": "MIT",
+    "devDependencies": {
+        "css-loader": "^6.7.3",
+        "javascript-obfuscator": "^4.0.2",
+        "style-loader": "^3.3.1",
+        "webpack": "^5.75.0",
+        "webpack-cli": "^5.0.1",
+        "webpack-obfuscator": "^3.5.1"
+    }
+}
